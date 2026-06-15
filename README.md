@@ -240,7 +240,7 @@ This project considers:
 
 The full dissertation is available in this repository as:
 
-thesis.pdf
+Research.pdf
 
 ---
 
