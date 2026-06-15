@@ -1,0 +1,5 @@
+.DS_Store
+articles.csv
+*.zip
+*.pdf
+*.docx
